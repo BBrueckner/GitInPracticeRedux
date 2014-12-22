@@ -1,3 +1,4 @@
 Los greatos jokos machos. Oh jaaa!
 Superos witzigos issos, Pappnasos.
 This is about cloning and pushing.
+This is about fetch, i.e., clone without merge.
